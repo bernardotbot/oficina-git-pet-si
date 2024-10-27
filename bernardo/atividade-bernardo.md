@@ -1,2 +1,1 @@
-Teoria geral da administração
-motivo: aula muito longa e cansativa
+ano de ingresso: 2024
